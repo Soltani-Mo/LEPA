@@ -12,9 +12,9 @@ Developed and tested with MATLAB R2023b and R2024b.
 
 | caseID | Function | Shape | CPU cores | RAM | GPU mem | Time |
 |---|---|---|---|---|---|---|
-| 1 | Angular-channel compression | Flat | 10 | 100 GB | 40 GB | ~9 h |
+| 1 | Angular-channel compression | Flat | 10 | 100 GB | 40 GB | ~30 h | without field plot
 | 2 | Angular-channel compression | Cylindrical | 10 | 60 GB | 40 GB | ~13 h |
-| 3 | Coherent-aperture expansion | Flat | 10 | 100 GB | 40 GB | ~9 h |
+| 3 | Coherent-aperture expansion | Flat | 10 | 100 GB | 40 GB | ~48 h |
 | 4 | Coherent-aperture expansion | Cylindrical | 10 | 60 GB | 40 GB | ~9 h |
 
 ## How to run
