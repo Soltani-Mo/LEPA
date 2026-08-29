@@ -275,7 +275,7 @@ params.lens.beta1 = 10;
 params.solver.dl = params.lambda0 / 10;
 
 % Enable GPU acceleration and iterative batching
-params.solver.useGPU = false;
+params.solver.useGPU = true;
 params.solver.Apply_IterBatching = true;
 
 
